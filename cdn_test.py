@@ -1,1 +1,2 @@
-var_hello = "Hello-World"
+def hello():
+	print("Ta funcionando a CDN")
